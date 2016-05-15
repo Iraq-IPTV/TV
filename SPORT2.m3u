@@ -1,14 +1,4 @@
-﻿<streaminginfos>
-<items>
-
-
 #EXTM3U
-#EXTINF:-1, [COLOR red]Jafaer-tv.com [/COLOR]
-http://s2.iptvapi.com
-
-
-
-
 #EXTINF:-1,Dubai Sport 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,Dubai Sport HD2
