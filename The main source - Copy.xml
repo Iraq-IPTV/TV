@@ -44,11 +44,11 @@
  <channels>
 
 <channel>
-      <name>[COLOR red]Jafaer-tv Sport 2 TV List[/COLOR]</name>
+      <name>Sport 2 TV List</name>
   <thumbnail>https://www.craftdirect.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/2/4/242862-alt2.jpg</thumbnail>
 <fanart>http://mediasat.info/wp-content/uploads/2015/02/iptv_03.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/sport2</externallink> ##change haider
+   <externallink>https://raw.githubusercontent.com/Iraq-IPTV/TV/9f6d4623616980e6f5570a4a0acfafd34761153c/SPORT2.m3u</externallink> ##change haider
    
 </channel>
   </channels> 
