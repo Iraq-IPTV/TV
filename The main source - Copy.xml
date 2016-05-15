@@ -4,8 +4,8 @@
 
 <channel>
 <name>[COLOR red]SAIF-TV Arabic 1 TV List [/COLOR]</name>
-<thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
-<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
+<thumbnail>http://mediasat.info/wp-content/uploads/2015/02/iptv_03.jpg</thumbnail>
+<fanart>http://mediasat.info/wp-content/uploads/2015/02/iptv_03.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Iraq-IPTV/TV/master/Arabic.m3u</externallink> ##change haider
    
@@ -16,8 +16,8 @@
 
 <channel>
       <name>[COLOR red]SAIF-TV Arabic 2 List [/COLOR]</name>
-  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
-<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
+  <thumbnail>http://mediasat.info/wp-content/uploads/2015/02/iptv_03.jpg</thumbnail>
+<fanart>http://mediasat.info/wp-content/uploads/2015/02/iptv_03.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/Iraq-IPTV/TV/master/qq.xml</externallink> ##change haider
    
