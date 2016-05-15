@@ -55,11 +55,11 @@
   <channels>
 
 <channel>
-      <name>[COLOR red]Jafaer-tv English TV List[/COLOR]</name>
+      <name>English TV List</name>
   <thumbnail>http://www.ps4vpn.com/img/vpn-access-tv-channels-on-PS4.jpg</thumbnail>
 <fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/Englishlist</externallink> ##change haider
+   <externallink>https://raw.githubusercontent.com/Iraq-IPTV/TV/master/English1.m3u</externallink> ##change haider
    
 </channel>
   </channels>
