@@ -69,11 +69,11 @@
  <channels>
 
 <channel>
-      <name>[COLOR red]Jafaer-tv English 2 TV List[/COLOR]</name>
+      <name>English TV List 2</name>
   <thumbnail>http://www.ps4vpn.com/img/vpn-access-tv-channels-on-PS4.jpg</thumbnail>
 <fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/Eng2</externallink> ##change haider
+   <externallink>https://raw.githubusercontent.com/Iraq-IPTV/TV/master/English2.xml</externallink> ##change haider
    
 </channel>
   </channels>
@@ -82,7 +82,7 @@
   <channels>
 
 <channel>
-      <name>[COLOR red]Jafaer-tv latino TV List[/COLOR]</name>
+      <name>latino TV List</name>
   <thumbnail>http://goo.gl/HJn2sR</thumbnail>
 <fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
 <link>http://ignoreme</link>
@@ -91,7 +91,7 @@
 </channel>
   </channels>
   <channel>
-      <name>[COLOR red]Jafaer-tv France TV List[/COLOR]</name>
+      <name>France TV List</name>
   <thumbnail>https://goo.gl/sg3rRq</thumbnail>
 <fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
 <link>http://ignoreme</link>
@@ -102,7 +102,7 @@
 <channels>
 
 <channel>
-      <name>[COLOR red] Jafaer-tv Cartoons [/COLOR]</name>
+      <name>[COLOR red]Cartoons [/COLOR]</name>
   <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
 <fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
 <link>http://ignoreme</link>
