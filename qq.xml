@@ -10,7 +10,12 @@
 <sportsdevil>http://aflam4you.tv/art-aflam-1-hd_23.html</sportsdevil>
 <referer>http://aflam4you.tv</referer>
 </item>
-
+<streaminginfo>
+<item>
+<title>Baraem</title>
+<link>http://37.187.24.177:80/mans51/mans51/698.ch</link>
+</item>
+</streaminginfo>
 <item>
 <title>MBC-1</title>
 <regex>
@@ -416,7 +421,7 @@
 
 
 <item>
-<title>???????</title>
+<title>alaqila</title>
 <link>http://144.76.218.235/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8</link>
 <thumbnail>http://www.alaqila.tv/images/logo-up.png</thumbnail>
 </item>
