@@ -7,7 +7,7 @@
 ###############################################33
 <item>
   <title>Jeem Europe</title>
-  <link>$doregex[getSTREAM]|User-Agent=iPhone</link>
+  <link>$doregex[getSTREAM]</link>
   
   <regex>
     <name>getSTREAM</name>
