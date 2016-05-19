@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1,Baraem
 http://2.109.65.145/masa/14506.m3u8?v=95195226
 #EXTINF:-1,MBC3
@@ -12,6 +13,8 @@ http://37.187.24.177:80/mans51/mans51/697.ch
 http://37.187.24.177:80/mans51/mans51/884.ch
 #EXTINF:-1,MBC-1
 http://37.187.24.177:80/mans51/mans51/667.ch
+#EXTINF:-1,MBC 1
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_1
 #EXTINF:-1,MBC2
 http://37.187.24.177:80/mans51/mans51/668.ch
 #EXTINF:-1,MBC4
