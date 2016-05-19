@@ -5,19 +5,7 @@
 
 
 ###############################################33
-<streaminginfo>
-	<cname>BARAEM</cname>
-	<item>
-	<title>BARAEM-HD</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>window.flashvars.src = '(.*?)'</expres>
-    <page>http://bit.ly/1TmfN9f</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
+
 <item>
 <title>Aflam</title>
 <sportsdevil>http://aflam4you.tv/art-aflam-1-hd_23.html</sportsdevil>
