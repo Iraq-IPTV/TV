@@ -2,22 +2,14 @@
 
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-
+http://2.109.65.145/masa/14506.m3u8?v=95195226
 
 ###############################################33
 <item>
-  <title>Jeem Europe</title>
-  <link>$doregex[getSTREAM]</link>
-  
-  <regex>
-    <name>getSTREAM</name>
-    <expres>file:.*(http.*?)[",']</expres>
-    <page>http://brightcove03-f.akamaihd.net/jeem_europelive_400@95898?videoid=4118613044001&lineUpId=2014288370001&playerId=2632434441001&affiliateId=&v=3.4.0&fp=WIN 17,0,0,188&r=MUACI&g=UQUQPCUIXMDK</page>
-    <referer>http://brightcove03-f.akamaihd.net/jeem_europelive_400@95898?videoid=4118613044001&lineUpId=2014288370001&playerId=2632434441001&affiliateId=&v=3.4.0&fp=WIN 17,0,0,188&r=MUACI&g=UQUQPCUIXMDK</referer>
-	<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-  </regex>
+<title>[COLOR darkgreen]BARAEM[/COLOR] FIGHT SPORT</title>
+<link>http://2.109.65.145/masa/14506.m3u8?v=95195226</link>
+<thumbnail></thumbnail>
 </item>
-
 <item>
 <title>Jeem-HD</title>
 <link>http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8</link>
