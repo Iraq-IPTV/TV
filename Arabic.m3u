@@ -1,25 +1,4 @@
 #EXTM3U
-#EXTINF:-1,#1 دينا
-http://level3.icflix.com/u/5980bb2a-8016-4260-9888-d3c1bfb48d05/84a46be9-754c-4de1-b871-7043ff01a5de.ism/84a46be9-754c-4de1-b871-7043ff01a5de-audio=131072-video_eng=3030000.m3u8 
-#EXTINF:-1,#2 دينا
-http://level3.icflix.com/u/79d5aeb8-aa6c-43b0-9374-8d37c559a1a1/9610637f-63c3-45de-9d5c-9a49fd9e308b.ism/9610637f-63c3-45de-9d5c-9a49fd9e308b-audio=131072-video_eng=3024000.m3u8
-#EXTINF:-1,#3 دينا
-http://level3.icflix.com/u/b3bb5699-cb71-4fd8-a1d1-2ec6d211f5aa/db96c5f5-506d-4230-95b7-957104b4686a.ism/db96c5f5-506d-4230-95b7-957104b4686a-audio=131072-video_eng=4587000.m3u8
-#EXTINF:-1,#4 دينا 
-http://level3.icflix.com/u/11a39f22-1782-4b4f-8e19-d8deaccba81c/cf3b0120-47f6-49f1-a347-622d56e09167.ism/cf3b0120-47f6-49f1-a347-622d56e09167-audio=131072-video_eng=4176000.m3u8
-#EXTINF:-1,#5 دينا
-http://level3.icflix.com/u/53bafafa-d569-48cf-a122-e22f878d2de4/81000e67-2b76-4171-8d87-6701c27136a2.ism/81000e67-2b76-4171-8d87-6701c27136a2-audio=131072-video_eng=4210000.m3u8
-#EXTINF:-1,#6 دينا
-http://level3.icflix.com/u/25a35ce2-cf86-49f4-9fcc-c7a196ab1337/70ab9e21-5d02-4b98-aa35-d381d15af5f0.ism/70ab9e21-5d02-4b98-aa35-d381d15af5f0-audio=131072-video_eng=4239000.m3u8
-#EXTINF:-1,#7 دينا
-http://level3.icflix.com/u/28df98cc-e447-43ae-a9f2-6187ebb9d311/bbee230b-c996-486e-942c-946523dc5e7c.ism/bbee230b-c996-486e-942c-946523dc5e7c-audio=131072-video_eng=4230000.m3u8 
-#EXTINF:-1,#8 دينا
-http://level3.icflix.com/u/1f598f85-c429-46ec-bba9-36bc1ebdbe94/7da2cd40-bbb4-4013-a036-9c8acea2a904.ism/7da2cd40-bbb4-4013-a036-9c8acea2a904-audio=131072-video_eng=4219000.m3u8
-#EXTINF:-1,#9 دينا 
-http://level3.icflix.com/u/a8917696-2ca0-4542-8533-e84aca43ba84/48800f21-2977-49e4-be15-f1411f2282e4.ism/48800f21-2977-49e4-be15-f1411f2282e4-audio=131072-video_eng=4232000.m3u8
-#EXTINF:-1,#10 دينا 
-http://level3.icflix.com/u/06880844-c79e-4b72-a64f-c4ca832e1637/58fa4765-2169-4cd0-ae68-9542b7fa05ee.ism/58fa4765-2169-4cd0-ae68-9542b7fa05ee-audio=131072-video_eng=4225000.m3u8
-
 #EXTINF:-1,Baraem
 http://2.109.65.145/masa/14506.m3u8?v=95195226
 #EXTINF:-1,MBC3
