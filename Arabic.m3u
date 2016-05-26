@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,MBC HD1
-https://plus.google.com/share?url=http://www.arabic-tvonline.com/2012/10/mbc-tv.html&title=MBC%20TV
-#EXTINF:-1,MBC HD!
-http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8
-#EXTINF:-1,MBC!HD
-http://50.7.168.162:8081/voice2/voice2/voicem/v1200400400/chunks.m3u8
 #EXTINF:-1,Baraem
 http://2.109.65.145/masa/14506.m3u8?v=95195226
 #EXTINF:-1,MBC3
@@ -15,6 +9,14 @@ http://37.187.24.177:80/mans51/mans51/750.ch
 http://37.187.24.177:80/mans51/mans51/697.ch
 #EXTINF:-1,TOYOR-ALJANAH
 http://37.187.24.177:80/mans51/mans51/884.ch
+#EXTINF:-1,MBC 1
+http://8.21.48.19:7777/MBC1_HD.m3u8
+#EXTINF:-1,MBC HD1
+https://plus.google.com/share?url=http://www.arabic-tvonline.com/2012/10/mbc-tv.html&title=MBC%20TV
+#EXTINF:-1,MBC HD!
+http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8
+#EXTINF:-1,MBC!HD
+http://50.7.168.162:8081/voice2/voice2/voicem/v1200400400/chunks.m3u8
 #EXTINF:-1,MBC-1
 http://37.187.24.177:80/mans51/mans51/667.ch
 #EXTINF:-1,MBC 1
