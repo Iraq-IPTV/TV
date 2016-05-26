@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,MBC HD!
+rtmp://www.teledunet.net/live?idu=toumesne_o6slkgubhn//mbc_1
 #EXTINF:-1,Baraem
 http://2.109.65.145/masa/14506.m3u8?v=95195226
 #EXTINF:-1,MBC3
