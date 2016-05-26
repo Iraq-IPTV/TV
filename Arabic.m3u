@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,MBC HD1
+https://plus.google.com/share?url=http://www.arabic-tvonline.com/2012/10/mbc-tv.html&title=MBC%20TV
 #EXTINF:-1,MBC HD!
 http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8
 #EXTINF:-1,MBC!HD
