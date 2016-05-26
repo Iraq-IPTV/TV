@@ -9,15 +9,13 @@ http://37.187.24.177:80/mans51/mans51/750.ch
 http://37.187.24.177:80/mans51/mans51/697.ch
 #EXTINF:-1,TOYOR-ALJANAH
 http://37.187.24.177:80/mans51/mans51/884.ch
-#EXTINF:-1,MBC HD1
-https://plus.google.com/share?url=http://www.arabic-tvonline.com/2012/10/mbc-tv.html&title=MBC%20TV
-#EXTINF:-1,MBC HD!
+#EXTINF:-1,MBC SD-1
 http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8
-#EXTINF:-1,MBC!HD
+#EXTINF:-1,MBC1 SD
 http://50.7.168.162:8081/voice2/voice2/voicem/v1200400400/chunks.m3u8
 #EXTINF:-1,MBC-1
 http://37.187.24.177:80/mans51/mans51/667.ch
-#EXTINF:-1,MBC 1
+#EXTINF:-1,MBC 1 HD
 http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_1
 #EXTINF:-1,MBC2
 http://37.187.24.177:80/mans51/mans51/668.ch
