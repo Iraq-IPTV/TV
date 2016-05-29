@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1,----- TELEDU LIST --------
 #EXTINF:-1,MBC1 HD
-rtmp://www.teledunet.net/live?idu=sfarhan_tw1ykd7lx/mbc_1
+rtmp://www.teledunet.net/live?idu=sfarhan_tw1ykd7lx/mbc_1.m3u8
+#EXTINF:-1,Toyor Aljana
+server=38.99.146.94&channel=KuwaitSpace_LR&port=2077&mode=3&user=zacqj4i15diicr55vqmnz3m3&session=5c7cfcbd6dfeb848384a7af0f0571a6d956cc12844180315deb3eb056f2e02dca299017ce29bf1aa
 #EXTINF:-1,AL_SHARQI-NEWS HD
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1,AL_SHARQIA LIVE HD
