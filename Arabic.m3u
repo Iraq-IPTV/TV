@@ -2,6 +2,59 @@
 #EXTINF:-1,----- TELEDU LIST --------
 #EXTINF:-1,MBC1 HD
 rtmp://www.teledunet.net/live?idu=sfarhan_tw1ykd7lx/mbc_1
+#EXTINF:-1,AL_SHARQI-NEWS HD
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+#EXTINF:-1,AL_SHARQIA LIVE HD
+rtmp://ns8.indexforce.com/home/mystream
+#EXTINF:-1,Al-Baghdadia
+rtmp://B2.Streaming.linkdatacenter.net/Baghdadya1//Baghdadya1Stream
+#EXTINF:-1,Al-Baghdadia 2
+rtmp://B1.Streaming.linkdatacenter.net/Baghdadya2//Baghdadya2Stream
+#EXTINF:-1,Al-Sumaria
+https://svs.itworkscdn.net/alsumariatvlive/smil:sumariamob.smil/media_w1006555945_b764000_t64VVE=_tkbGFscGFzc3dlbmR0aW1lPTE0NjQ1NDY1MjYmbGFscGFzc3d3b3d6YXN0YXJ0dGltZT0wJmxhbHBhc3N3d293emFzdGN1c3RvbT0xNDY0NTM5MzMwJmxhbHBhc3N3aGFzaD1Vd2t5RzI5ckM4ck85OWNQUUozQWtPZ1phMm9RcThDdGNlcnRkckFlQVJ3PQ==_23694.ts
+#EXTINF:-1,Al-Etejahtv
+http://162.244.81.186:1935/aletejahtv/aletejahtv/chunklist_w1434550777.m3u8
+#EXTINF:-1,Al-Furat
+rtmp://alforatlive.nanocdn.com/live/alforat256
+#EXTINF:-1,Al-Hurra
+rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15
+#EXTINF:-1,Al-Rai
+rtmp://stream02.fasttelco.net/live/_definst_/alrai.stream
+#EXTINF:-1,KTV1
+rtmp://stream03.fasttelco.net/live/_definst_/ktv1_480.stream
+#EXTINF:-1,KTV2
+rtmp://stream03.fasttelco.net/live/_definst_/ktv2_480.stream
+#EXTINF:-1,KTV SPORT
+rtmp://stream03.fasttelco.net/live/_definst_/ktv3_480.stream
+#EXTINF:-1,KTV ETHRAA
+rtmp://stream03.fasttelco.net/live/_definst_/ktv5_480.stream
+#EXTINF:-1,KTV ARABIC
+rtmp://stream03.fasttelco.net/live/_definst_/ktv6_480.stream
+#EXTINF:-1,KTV PLUS1
+rtmp://stream03.fasttelco.net/live/_definst_/ktv8_480.stream
+#EXTINF:-1,KTV SPORT PLUS
+rtmp://stream03.fasttelco.net/live/_definst_/ktv4_480.stream
+#EXTINF:-1,KTV Al Majlis
+rtmp://stream03.fasttelco.net/live/_definst_/ktv7_480.stream
+#EXTINF:-1,Al-Hiwar
+http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_w615235599_b1264000.m3u8
+#EXTINF:-1,LBC DRAMA
+https://r11---sn-a5m7zned.c.2mdn.net/videoplayback/id/c4e46271f16368e4/itag/15/source/doubleclick/ratebypass/yes/mime/video%2Fmp4/acao/yes/ip/174.65.81.198/ipbits/0/expire/3602661445/sparams/acao,expire,id,ip,ipbits,ipbypass,itag,mime,mm,mn,ms,mv,nh,pl,ratebypass,source/signature/6A0F6A4FE952B98C0F81104E30829842299F8EC2.411E1009CDB200B540254DC3F131F66DD0A9CF15/key/cms1/pl/16/redirect_counter/1/req_id/41af261d0d74a3ee/cms_redirect/yes/ipbypass/yes/mm/30/mn/sn-a5m7zned/ms/nxu/mt/1464540222/mv/m/nh/IgpwcjAzLmxheDE2KgkxMjcuMC4wLjE?file=file.mp4
+#EXTINF:-1,LBC
+
+#EXTINF:-1,Al-Quran
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream1.m3u8
+#EXTINF:-1,Al-Ekhbaria
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel1/_definst_/live/stream1.m3u8
+#EXTINF:-1,SAUDI 1
+n5os&ms=lv&mt=1464538527&mv=m&pl=33&alr=yes&keepalive=yes&c=WEB&cver=1.20160525&sq=1620351&clen=280377&lmt=1464538547285406&dur=5.0&rn=2&rbuf=0.mp4
+#EXTINF:-1,SAUDI 2
+https://manifest.googlevideo.com/api/manifest/init_segment?id=auknwfAzgxU.2&itag=140&source=yt_live_broadcast&requiressl=yes&gcr=us&playlist_type=DVR&ratebypass=yes&cmbypass=yes&mime=audio%2Fmp4&live=1&gir=yes&signature=3FDD47F88211D4146E91941D13CEBEF5492E820B.1CA1B8669D396319F959875348F048A43373D302&upn=4-1jVnX3zRo&key=cms1&sver=3&cpn=nTuFMYNrH0li9ao4&mpd_version=3&pacing=0&ip=2600:8801:8602:b000:94:1a59:27d1:b6f4&ipbits=0&expire=1464560267&sparams=cmbypass,expire,gcr,gir,id,ip,ipbits,itag,live,mime,mm,mn,ms,mv,pl,playlist_type,ratebypass,requiressl,source&mm=32&mn=sn-jvm-n5ol&ms=lv&mt=1464538644&mv=m&pl=33&sq=0&rn=0&rbuf=0
+#EXTINF:-1,Sunna
+https://r4---sn-jvm-n5os.googlevideo.com/videoplayback?id=4OoKpZWJASY.2&itag=134&source=yt_live_broadcast&requiressl=yes&gcr=us&playlist_type=DVR&ratebypass=yes&cmbypass=yes&mime=video%2Fmp4&live=1&gir=yes&upn=Cn19nTi5CXc&sver=3&signature=6962BCB1F437189B5E9DC2B966E1F96E8F5C243D.5E3858159C1A11333DDED923EBEB61FD8CD7EC18&key=cms1&cpn=uhx6XZp67ue6m-g9&mpd_version=3&pacing=0&ip=2600:8801:8602:b000:94:1a59:27d1:b6f4&ipbits=0&expire=1464560329&sparams=cmbypass,expire,gcr,gir,id,ip,ipbits,itag,live,mime,mm,mn,ms,mv,pl,playlist_type,ratebypass,requiressl,source&mm=32&mn=sn-jvm-n5os&ms=lv&mt=1464538704&mv=m&pl=33&alr=yes&keepalive=yes&c=WEB&cver=1.20160525&ir=1&rr=12&sq=1613251&clen=32454&lmt=1464538719249143&dur=5.0&rn=5&rbuf=0
+
+
+
 #EXTINF:-1,----- BienSport --------
 http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/170.ts
 #EXTINF:-1,AR: Bein Sport 1 HD
