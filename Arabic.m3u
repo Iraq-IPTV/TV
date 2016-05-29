@@ -3,9 +3,10 @@
 #EXTINF:-1,MBC1 HD
 rtmp://www.teledunet.net/live?idu=sfarhan_tw1ykd7lx/mbc_1
 #EXTINF:-1,AL_SHARQI-NEWS HD
-rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1,AL_SHARQIA LIVE HD
-rtmp://ns8.indexforce.com/home/mystream
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=365180
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8?wowzasessionid=1283908125
 #EXTINF:-1,Al-Baghdadia
 rtmp://B2.Streaming.linkdatacenter.net/Baghdadya1//Baghdadya1Stream
 #EXTINF:-1,Al-Baghdadia 2
