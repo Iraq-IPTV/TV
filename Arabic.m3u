@@ -5,7 +5,11 @@ https://manifest.googlevideo.com/api/manifest/init_segment?id=rlvfffhWo2A.50&ita
 #EXTINF:-1,AL_ARABIA Al-Hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1,MBC1 HD
-rtmp://www.teledunet.net/live?idu=sfarhan_tw1ykd7lx/mbc_1.m3u8
+rtmp://www.teledunet.net/live?idu=sfarhan_tw1ykd7lx/mbc_1
+#EXTINF:-1,MBC1-HD
+http://50.7.168.162:8081/voice2/voice2/voicem/v1200400400/chunks.m3u8
+#EXTINF:-1,MBC1-HD
+http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8
 #EXTINF:-1,Toyor Aljana
 server=38.99.146.94&channel=KuwaitSpace_LR&port=2077&mode=3&user=zacqj4i15diicr55vqmnz3m3&session=5c7cfcbd6dfeb848384a7af0f0571a6d956cc12844180315deb3eb056f2e02dca299017ce29bf1aa
 #EXTINF:-1,AL_SHARQI-NEWS HD
