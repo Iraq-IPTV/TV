@@ -11,7 +11,7 @@ http://50.7.168.162:8081/voice2/voice2/voicem/v1200400400/chunks.m3u8
 #EXTINF:-1,MBC1-HD
 http://50.7.168.162:8081/voice2/voice2/voicem/v12001200400/chunks.m3u8
 #EXTINF:-1,MB Masr
-rtmp://www.teledunet.net/live?idu=dfdrdd_smgsiiae7k//mbc_masr
+rtmp://$OPT:rtmp-raw=rtmp://www.teledunet.net/live?idu=dfdrdd_smgsiiae7k//mbc_masr swfUrl=http://www.teledunet.com/tv/player.swf?&id0=82331455025100&skin=bekle/bekle.xml 
 #EXTINF:-1,MBC1-HD
 rtmp://www.teledunet.net/live?idu=dfdrdd_smgsiiae7k//mbc_masr
 #EXTINF:-1,Toyor Aljana
